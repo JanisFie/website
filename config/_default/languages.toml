@@ -1,0 +1,11 @@
+[en]
+title = "Janis Fiedler"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+[d]
+title = "Janis Fiedler"
+weight = 1
+LanguageName = "D"
+contentDir = "content/german"

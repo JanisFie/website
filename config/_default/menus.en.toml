@@ -2,7 +2,7 @@
   name = "Home"
   identifier = "Home"
   weight = 100
-  url = "/Home/"
+  url = "/"
 
   [[main]]
   name = "Publications"

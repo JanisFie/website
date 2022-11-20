@@ -2,7 +2,7 @@
   name = "Home"
   identifier = "Home"
   weight = 100
-  url = "/Home"
+  url = "#Home"
 
   [[main]]
   name = "Publications"
@@ -10,12 +10,11 @@
   identifier = "publications"
   url = "/publications/"
 
-
   [[main]]
-  name = "CV"
+  name = "cv"
   weight = 400
-  identifier = "CV_Janis_Fiedler_eng.pdf"
-  url = "/CV_Janis_Fiedler_eng.pdf"
+  identifier = "cv"
+  url = "files/cv.pdf"
 
   #[[main]]
   #name = "Accomplishments"

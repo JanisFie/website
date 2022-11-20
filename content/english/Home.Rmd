@@ -1,0 +1,9 @@
+---
+author: Janis Fiedler
+date: "2022-11-19"
+description: Home
+title: Biography
+---
+
+Janis Fiedler is a Post-Doctoral Researcher at the Institute of Sport and Sportscience of the Karlsruhe Institute of Technology. His main research interest is focused around physical activity and health promotion. Janis completed his [Ph.D](https://publikationen.bibliothek.kit.edu/1000152016) on digital interventions for health promotion titled:
+*Mobile Health interventions to enhance physical activity. Overview, methodological considerations, and just-in-time adaptive interventions.* Additionally, he is exploring the area of epidemiology regarding prevalence of physical activity, and performance diagnostic parameters like lactate in relation to health in representative samples. 

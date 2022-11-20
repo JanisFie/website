@@ -1,0 +1,65 @@
+---
+aliases:
+- CV
+author: Janis Fiedler
+date: "2022-11-19"
+description: CV
+title: CV
+---
+
+CV Janis Fiedler
+Birthdate
+12. Dezember 1989
+Birthplace
+Sindelfingen
+Adress
+Kaiserallee 123
+76185 Karlsruhe
+Phone
++49 (0)157 37169733
+E-Mail
+janis.fiedler@kit.edu
+Education
+04 / 2016 – 11 / 2018
+Master of Science "Gesundheitsförderung und Therapie durch Sport" (1,5)
+Johannes Gutenberg-Universität Mainz
+03 / 2012 – 08 / 2016
+Bachelor of Arts Sports Science
+Johannes Gutenberg-Universität Mainz
+09 / 2000 – 07 / 2009
+General qualification for university entrance
+Parler-Gymnasium Schwäbisch Gmünd
+Academic Experience
+Since 04 / 2019
+PhD candidate at the Institute of Sports und Sports Science (Prof. A. Woll)
+SMARTFAMILY project – mobile health behavior change in the family setting
+Karlsruhe Institute of Technology (KIT)
+07 / 2021 – 04 / 2022
+Parental leave replacement in the department of sports orthopedics and stress analysis (Prof. S. Sell)
+Karlsruhe Institute of Technology
+04 / 2020 – 04 /2021
+Research associate in performance diagnostics
+(Dr. S. Altmann)
+Karlsruhe Institute of Technology
+Work Experience
+01 / 2019 – 03 / 2019
+Internship performance diagnostics Johannes Gutenberg-Universität Mainz, Sportmedizin
+09 / 2016 – 03 / 2019
+Part-time-job in sports therapie Praxis PhysioLogisch, Gau-Algesheim
+03 / 2018 – 07 / 2018
+Internship abroad for research at the performance diagnistics lab
+University of Tartu, Estland
+07 / 2017 – 08 / 2017
+Teaching at Community College TalentCAMPus Nierstein
+05 / 2015 – 06 / 2017
+Project management MS³ German association for multiple sclerosis (DMSG) Mainz
+01 / 2016 – 03 / 2016
+Internship orthopedic rehabilitation and physical therapy Rehabilitation center, Mainz-Mombach
+11 / 2015 – 07 / 2016
+Teaching Sport AG Otto-Schott-Gymnasium Mainz
+10 / 2011 – 12 / 2011
+Internship preventive back- and cardiovascular training Multisportanlage Waldstetten
+10 / 2009 – 06 / 2010
+Community service Youth hostel Heilbronn
+03 / 2011 – 08 / 2011
+Work and Travel Neuseeland

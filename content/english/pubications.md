@@ -1,8 +1,6 @@
 ---
 aliases:
-- about-us
-- about-hugo
-- contact
+- publications
 author: Janis Fiedler
 date: "2022-11-19"
 description: Publications

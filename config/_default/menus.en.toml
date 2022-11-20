@@ -1,8 +1,8 @@
   [[main]]
   name = "Home"
-  identifier = "home"
+  identifier = "Home"
   weight = 100
-  url = "/"
+  url = "/Home/"
 
   [[main]]
   name = "Publications"
@@ -14,7 +14,8 @@
   [[main]]
   name = "CV"
   weight = 400
-  url = "/CV_Janis_Fiedler_eng"
+  identifier = "CV_Janis_Fiedler_eng.pdf"
+  url = "/CV_Janis_Fiedler_eng.pdf"
 
   #[[main]]
   #name = "Accomplishments"
@@ -29,11 +30,11 @@
   #parent = "accomplishments"  
 
 
-  [[main]]
-  name = "Contact"
-  weight = 600
-  identifier = "contact"
-  url = "/contact/"
+  #[[main]]
+  #name = "Contact"
+ # weight = 600
+  #identifier = "contact"
+  #url = "/contact/"
 
   [[footer]]
   name = "imprint"
